@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sign of Integer Numbers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Grades", "02. Grades\02. Grades.csproj", "{DA3B45AC-1385-414B-A991-A8D436E65EC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Printing Triangle", "04. Printing Triangle\04. Printing Triangle.csproj", "{3D45A0E7-C696-4934-B480-A552CEFA6359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DA3B45AC-1385-414B-A991-A8D436E65EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3B45AC-1385-414B-A991-A8D436E65EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3B45AC-1385-414B-A991-A8D436E65EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D45A0E7-C696-4934-B480-A552CEFA6359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D45A0E7-C696-4934-B480-A552CEFA6359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D45A0E7-C696-4934-B480-A552CEFA6359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D45A0E7-C696-4934-B480-A552CEFA6359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
